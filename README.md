@@ -35,7 +35,6 @@ Laravel Fortifyを活用して、ユーザー登録、ログイン、ログア�
 2. ログイン画面
 
    ![ログイン画面](CheckImage_authentication_login.png)
-
-2. ダッシュボード画面
+3. ダッシュボード画面
 
    ![ダッシュボード画面](CheckImage_authentication_dashboard.png)
